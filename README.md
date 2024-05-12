@@ -6,7 +6,7 @@ To check out the frontend , go to the master branch.
 Here's the recommended order in which the files should be accessed, along with a brief description of what happens in each file:
 
 1)Dataset_Generation_For_Demonstration.ipynb
-Description: This notebook focuses on generating datasets required for the analysis. It prepares the data needed for subsequent evaluations.
+Description: This notebook focuses on generating datasets using template based prompting required for the analysis. It prepares the data needed for subsequent evaluations.It's not present in the github repo.
 Purpose: To create datasets for demonstration purposes.
 
 2)TestDataset.ipynb
